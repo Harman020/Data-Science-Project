@@ -1,0 +1,1089 @@
+state_name,date,forecast_renewable_energy
+All India,2025-05-01,14340.44
+All India,2025-06-01,15261.73
+All India,2025-07-01,15783.17
+All India,2025-08-01,15306.7
+All India,2025-09-01,14107.37
+All India,2025-10-01,10283.88
+All India,2025-11-01,10069.99
+All India,2025-12-01,11020.4
+All India,2026-01-01,12192.68
+All India,2026-02-01,12220.17
+All India,2026-03-01,12796.33
+All India,2026-04-01,12563.39
+All India,2026-05-01,15121.61
+All India,2026-06-01,16042.91
+All India,2026-07-01,16564.35
+All India,2026-08-01,16087.88
+All India,2026-09-01,14888.55
+All India,2026-10-01,11065.06
+All India,2026-11-01,10851.16
+All India,2026-12-01,11801.57
+All India,2027-01-01,12973.86
+All India,2027-02-01,13001.34
+All India,2027-03-01,13577.51
+All India,2027-04-01,13344.56
+All India,2027-05-01,15902.79
+All India,2027-06-01,16824.09
+All India,2027-07-01,17345.53
+All India,2027-08-01,16869.06
+All India,2027-09-01,15669.72
+All India,2027-10-01,11846.24
+All India,2027-11-01,11632.34
+All India,2027-12-01,12582.75
+All India,2028-01-01,13755.04
+All India,2028-02-01,13782.52
+All India,2028-03-01,14358.69
+All India,2028-04-01,14125.74
+All India,2028-05-01,16683.97
+All India,2028-06-01,17605.27
+All India,2028-07-01,18126.71
+All India,2028-08-01,17650.24
+All India,2028-09-01,16450.9
+All India,2028-10-01,12627.42
+All India,2028-11-01,12413.52
+All India,2028-12-01,13363.93
+All India,2029-01-01,14536.22
+All India,2029-02-01,14563.7
+All India,2029-03-01,15139.87
+All India,2029-04-01,14906.92
+All India,2029-05-01,17465.15
+All India,2029-06-01,18386.45
+All India,2029-07-01,18907.89
+All India,2029-08-01,18431.41
+All India,2029-09-01,17232.08
+All India,2029-10-01,13408.6
+All India,2029-11-01,13194.7
+All India,2029-12-01,14145.11
+All India,2030-01-01,15317.4
+All India,2030-02-01,15344.88
+All India,2030-03-01,15921.05
+All India,2030-04-01,15688.1
+All India,2030-05-01,18246.33
+All India,2030-06-01,19167.63
+All India,2030-07-01,19689.07
+All India,2030-08-01,19212.59
+All India,2030-09-01,18013.26
+All India,2030-10-01,14189.78
+All India,2030-11-01,13975.88
+All India,2030-12-01,14926.29
+Karnataka,2025-05-01,2049.03
+Karnataka,2025-06-01,2231.99
+Karnataka,2025-07-01,2476.57
+Karnataka,2025-08-01,2350.07
+Karnataka,2025-09-01,2328.54
+Karnataka,2025-10-01,1618.98
+Karnataka,2025-11-01,1701.1
+Karnataka,2025-12-01,1756.72
+Karnataka,2026-01-01,1965.78
+Karnataka,2026-02-01,1908.62
+Karnataka,2026-03-01,1779.2
+Karnataka,2026-04-01,1716.1
+Karnataka,2026-05-01,2179.55
+Karnataka,2026-06-01,2362.51
+Karnataka,2026-07-01,2607.09
+Karnataka,2026-08-01,2480.6
+Karnataka,2026-09-01,2459.06
+Karnataka,2026-10-01,1749.51
+Karnataka,2026-11-01,1831.63
+Karnataka,2026-12-01,1887.24
+Karnataka,2027-01-01,2096.31
+Karnataka,2027-02-01,2039.14
+Karnataka,2027-03-01,1909.73
+Karnataka,2027-04-01,1846.63
+Karnataka,2027-05-01,2310.08
+Karnataka,2027-06-01,2493.04
+Karnataka,2027-07-01,2737.61
+Karnataka,2027-08-01,2611.12
+Karnataka,2027-09-01,2589.59
+Karnataka,2027-10-01,1880.03
+Karnataka,2027-11-01,1962.15
+Karnataka,2027-12-01,2017.77
+Karnataka,2028-01-01,2226.83
+Karnataka,2028-02-01,2169.67
+Karnataka,2028-03-01,2040.25
+Karnataka,2028-04-01,1977.15
+Karnataka,2028-05-01,2440.6
+Karnataka,2028-06-01,2623.56
+Karnataka,2028-07-01,2868.14
+Karnataka,2028-08-01,2741.65
+Karnataka,2028-09-01,2720.11
+Karnataka,2028-10-01,2010.56
+Karnataka,2028-11-01,2092.67
+Karnataka,2028-12-01,2148.29
+Karnataka,2029-01-01,2357.36
+Karnataka,2029-02-01,2300.19
+Karnataka,2029-03-01,2170.78
+Karnataka,2029-04-01,2107.67
+Karnataka,2029-05-01,2571.13
+Karnataka,2029-06-01,2754.09
+Karnataka,2029-07-01,2998.66
+Karnataka,2029-08-01,2872.17
+Karnataka,2029-09-01,2850.64
+Karnataka,2029-10-01,2141.08
+Karnataka,2029-11-01,2223.2
+Karnataka,2029-12-01,2278.82
+Karnataka,2030-01-01,2487.88
+Karnataka,2030-02-01,2430.72
+Karnataka,2030-03-01,2301.3
+Karnataka,2030-04-01,2238.2
+Karnataka,2030-05-01,2701.65
+Karnataka,2030-06-01,2884.61
+Karnataka,2030-07-01,3129.19
+Karnataka,2030-08-01,3002.7
+Karnataka,2030-09-01,2981.16
+Karnataka,2030-10-01,2271.6
+Karnataka,2030-11-01,2353.72
+Karnataka,2030-12-01,2409.34
+Gujarat,2025-05-01,2803.23
+Gujarat,2025-06-01,2581.19
+Gujarat,2025-07-01,2544.34
+Gujarat,2025-08-01,2554.53
+Gujarat,2025-09-01,1911.36
+Gujarat,2025-10-01,2076.26
+Gujarat,2025-11-01,2144.33
+Gujarat,2025-12-01,2589.61
+Gujarat,2026-01-01,2735.15
+Gujarat,2026-02-01,2704.01
+Gujarat,2026-03-01,2957.32
+Gujarat,2026-04-01,2938.63
+Gujarat,2026-05-01,2935.34
+Gujarat,2026-06-01,2713.29
+Gujarat,2026-07-01,2676.44
+Gujarat,2026-08-01,2686.63
+Gujarat,2026-09-01,2043.46
+Gujarat,2026-10-01,2208.36
+Gujarat,2026-11-01,2276.43
+Gujarat,2026-12-01,2721.71
+Gujarat,2027-01-01,2867.25
+Gujarat,2027-02-01,2836.11
+Gujarat,2027-03-01,3089.42
+Gujarat,2027-04-01,3070.73
+Gujarat,2027-05-01,3067.44
+Gujarat,2027-06-01,2845.39
+Gujarat,2027-07-01,2808.54
+Gujarat,2027-08-01,2818.73
+Gujarat,2027-09-01,2175.56
+Gujarat,2027-10-01,2340.46
+Gujarat,2027-11-01,2408.53
+Gujarat,2027-12-01,2853.81
+Gujarat,2028-01-01,2999.35
+Gujarat,2028-02-01,2968.22
+Gujarat,2028-03-01,3221.52
+Gujarat,2028-04-01,3202.83
+Gujarat,2028-05-01,3199.54
+Gujarat,2028-06-01,2977.49
+Gujarat,2028-07-01,2940.64
+Gujarat,2028-08-01,2950.83
+Gujarat,2028-09-01,2307.66
+Gujarat,2028-10-01,2472.56
+Gujarat,2028-11-01,2540.63
+Gujarat,2028-12-01,2985.92
+Gujarat,2029-01-01,3131.45
+Gujarat,2029-02-01,3100.32
+Gujarat,2029-03-01,3353.62
+Gujarat,2029-04-01,3334.93
+Gujarat,2029-05-01,3331.64
+Gujarat,2029-06-01,3109.6
+Gujarat,2029-07-01,3072.74
+Gujarat,2029-08-01,3082.93
+Gujarat,2029-09-01,2439.76
+Gujarat,2029-10-01,2604.66
+Gujarat,2029-11-01,2672.73
+Gujarat,2029-12-01,3118.02
+Gujarat,2030-01-01,3263.55
+Gujarat,2030-02-01,3232.42
+Gujarat,2030-03-01,3485.72
+Gujarat,2030-04-01,3467.03
+Gujarat,2030-05-01,3463.74
+Gujarat,2030-06-01,3241.7
+Gujarat,2030-07-01,3204.84
+Gujarat,2030-08-01,3215.03
+Gujarat,2030-09-01,2571.86
+Gujarat,2030-10-01,2736.76
+Gujarat,2030-11-01,2804.83
+Gujarat,2030-12-01,3250.12
+Tamil Nadu,2025-05-01,2550.84
+Tamil Nadu,2025-06-01,2972.4
+Tamil Nadu,2025-07-01,3027.16
+Tamil Nadu,2025-08-01,2888.05
+Tamil Nadu,2025-09-01,3380.68
+Tamil Nadu,2025-10-01,1778.13
+Tamil Nadu,2025-11-01,1278.45
+Tamil Nadu,2025-12-01,1469.59
+Tamil Nadu,2026-01-01,1698.26
+Tamil Nadu,2026-02-01,1718.77
+Tamil Nadu,2026-03-01,1658.17
+Tamil Nadu,2026-04-01,1622.77
+Tamil Nadu,2026-05-01,2730.26
+Tamil Nadu,2026-06-01,3151.82
+Tamil Nadu,2026-07-01,3206.58
+Tamil Nadu,2026-08-01,3067.47
+Tamil Nadu,2026-09-01,3560.1
+Tamil Nadu,2026-10-01,1957.55
+Tamil Nadu,2026-11-01,1457.87
+Tamil Nadu,2026-12-01,1649.01
+Tamil Nadu,2027-01-01,1877.68
+Tamil Nadu,2027-02-01,1898.19
+Tamil Nadu,2027-03-01,1837.59
+Tamil Nadu,2027-04-01,1802.19
+Tamil Nadu,2027-05-01,2909.68
+Tamil Nadu,2027-06-01,3331.24
+Tamil Nadu,2027-07-01,3386.0
+Tamil Nadu,2027-08-01,3246.89
+Tamil Nadu,2027-09-01,3739.52
+Tamil Nadu,2027-10-01,2136.97
+Tamil Nadu,2027-11-01,1637.29
+Tamil Nadu,2027-12-01,1828.43
+Tamil Nadu,2028-01-01,2057.1
+Tamil Nadu,2028-02-01,2077.61
+Tamil Nadu,2028-03-01,2017.01
+Tamil Nadu,2028-04-01,1981.61
+Tamil Nadu,2028-05-01,3089.1
+Tamil Nadu,2028-06-01,3510.66
+Tamil Nadu,2028-07-01,3565.42
+Tamil Nadu,2028-08-01,3426.31
+Tamil Nadu,2028-09-01,3918.94
+Tamil Nadu,2028-10-01,2316.39
+Tamil Nadu,2028-11-01,1816.71
+Tamil Nadu,2028-12-01,2007.85
+Tamil Nadu,2029-01-01,2236.52
+Tamil Nadu,2029-02-01,2257.03
+Tamil Nadu,2029-03-01,2196.43
+Tamil Nadu,2029-04-01,2161.03
+Tamil Nadu,2029-05-01,3268.52
+Tamil Nadu,2029-06-01,3690.08
+Tamil Nadu,2029-07-01,3744.84
+Tamil Nadu,2029-08-01,3605.73
+Tamil Nadu,2029-09-01,4098.36
+Tamil Nadu,2029-10-01,2495.81
+Tamil Nadu,2029-11-01,1996.13
+Tamil Nadu,2029-12-01,2187.27
+Tamil Nadu,2030-01-01,2415.94
+Tamil Nadu,2030-02-01,2436.45
+Tamil Nadu,2030-03-01,2375.85
+Tamil Nadu,2030-04-01,2340.45
+Tamil Nadu,2030-05-01,3447.94
+Tamil Nadu,2030-06-01,3869.5
+Tamil Nadu,2030-07-01,3924.26
+Tamil Nadu,2030-08-01,3785.15
+Tamil Nadu,2030-09-01,4277.78
+Tamil Nadu,2030-10-01,2675.23
+Tamil Nadu,2030-11-01,2175.55
+Tamil Nadu,2030-12-01,2366.69
+Rajasthan,2025-05-01,1490.68
+Rajasthan,2025-06-01,1474.15
+Rajasthan,2025-07-01,1422.32
+Rajasthan,2025-08-01,1423.21
+Rajasthan,2025-09-01,1334.93
+Rajasthan,2025-10-01,1263.64
+Rajasthan,2025-11-01,1161.52
+Rajasthan,2025-12-01,1228.06
+Rajasthan,2026-01-01,1347.08
+Rajasthan,2026-02-01,1346.05
+Rajasthan,2026-03-01,1571.04
+Rajasthan,2026-04-01,1570.34
+Rajasthan,2026-05-01,1575.9
+Rajasthan,2026-06-01,1559.38
+Rajasthan,2026-07-01,1507.54
+Rajasthan,2026-08-01,1508.44
+Rajasthan,2026-09-01,1420.15
+Rajasthan,2026-10-01,1348.87
+Rajasthan,2026-11-01,1246.75
+Rajasthan,2026-12-01,1313.28
+Rajasthan,2027-01-01,1432.31
+Rajasthan,2027-02-01,1431.28
+Rajasthan,2027-03-01,1656.27
+Rajasthan,2027-04-01,1655.57
+Rajasthan,2027-05-01,1661.13
+Rajasthan,2027-06-01,1644.6
+Rajasthan,2027-07-01,1592.77
+Rajasthan,2027-08-01,1593.67
+Rajasthan,2027-09-01,1505.38
+Rajasthan,2027-10-01,1434.09
+Rajasthan,2027-11-01,1331.97
+Rajasthan,2027-12-01,1398.51
+Rajasthan,2028-01-01,1517.53
+Rajasthan,2028-02-01,1516.51
+Rajasthan,2028-03-01,1741.5
+Rajasthan,2028-04-01,1740.79
+Rajasthan,2028-05-01,1746.36
+Rajasthan,2028-06-01,1729.83
+Rajasthan,2028-07-01,1678.0
+Rajasthan,2028-08-01,1678.89
+Rajasthan,2028-09-01,1590.61
+Rajasthan,2028-10-01,1519.32
+Rajasthan,2028-11-01,1417.2
+Rajasthan,2028-12-01,1483.74
+Rajasthan,2029-01-01,1602.76
+Rajasthan,2029-02-01,1601.73
+Rajasthan,2029-03-01,1826.72
+Rajasthan,2029-04-01,1826.02
+Rajasthan,2029-05-01,1831.59
+Rajasthan,2029-06-01,1815.06
+Rajasthan,2029-07-01,1763.22
+Rajasthan,2029-08-01,1764.12
+Rajasthan,2029-09-01,1675.83
+Rajasthan,2029-10-01,1604.55
+Rajasthan,2029-11-01,1502.43
+Rajasthan,2029-12-01,1568.96
+Rajasthan,2030-01-01,1687.99
+Rajasthan,2030-02-01,1686.96
+Rajasthan,2030-03-01,1911.95
+Rajasthan,2030-04-01,1911.25
+Rajasthan,2030-05-01,1916.81
+Rajasthan,2030-06-01,1900.28
+Rajasthan,2030-07-01,1848.45
+Rajasthan,2030-08-01,1849.35
+Rajasthan,2030-09-01,1761.06
+Rajasthan,2030-10-01,1689.77
+Rajasthan,2030-11-01,1587.65
+Rajasthan,2030-12-01,1654.19
+Andhra Pradesh,2025-05-01,1356.72
+Andhra Pradesh,2025-06-01,1659.54
+Andhra Pradesh,2025-07-01,1810.44
+Andhra Pradesh,2025-08-01,1556.6
+Andhra Pradesh,2025-09-01,1521.03
+Andhra Pradesh,2025-10-01,790.31
+Andhra Pradesh,2025-11-01,801.44
+Andhra Pradesh,2025-12-01,853.21
+Andhra Pradesh,2026-01-01,1000.35
+Andhra Pradesh,2026-02-01,990.7
+Andhra Pradesh,2026-03-01,996.09
+Andhra Pradesh,2026-04-01,972.12
+Andhra Pradesh,2026-05-01,1463.28
+Andhra Pradesh,2026-06-01,1766.1
+Andhra Pradesh,2026-07-01,1917.0
+Andhra Pradesh,2026-08-01,1663.17
+Andhra Pradesh,2026-09-01,1627.59
+Andhra Pradesh,2026-10-01,896.88
+Andhra Pradesh,2026-11-01,908.0
+Andhra Pradesh,2026-12-01,959.77
+Andhra Pradesh,2027-01-01,1106.91
+Andhra Pradesh,2027-02-01,1097.26
+Andhra Pradesh,2027-03-01,1102.65
+Andhra Pradesh,2027-04-01,1078.68
+Andhra Pradesh,2027-05-01,1569.85
+Andhra Pradesh,2027-06-01,1872.67
+Andhra Pradesh,2027-07-01,2023.57
+Andhra Pradesh,2027-08-01,1769.73
+Andhra Pradesh,2027-09-01,1734.16
+Andhra Pradesh,2027-10-01,1003.44
+Andhra Pradesh,2027-11-01,1014.56
+Andhra Pradesh,2027-12-01,1066.34
+Andhra Pradesh,2028-01-01,1213.48
+Andhra Pradesh,2028-02-01,1203.83
+Andhra Pradesh,2028-03-01,1209.21
+Andhra Pradesh,2028-04-01,1185.24
+Andhra Pradesh,2028-05-01,1676.41
+Andhra Pradesh,2028-06-01,1979.23
+Andhra Pradesh,2028-07-01,2130.13
+Andhra Pradesh,2028-08-01,1876.29
+Andhra Pradesh,2028-09-01,1840.72
+Andhra Pradesh,2028-10-01,1110.0
+Andhra Pradesh,2028-11-01,1121.12
+Andhra Pradesh,2028-12-01,1172.9
+Andhra Pradesh,2029-01-01,1320.04
+Andhra Pradesh,2029-02-01,1310.39
+Andhra Pradesh,2029-03-01,1315.78
+Andhra Pradesh,2029-04-01,1291.81
+Andhra Pradesh,2029-05-01,1782.97
+Andhra Pradesh,2029-06-01,2085.79
+Andhra Pradesh,2029-07-01,2236.69
+Andhra Pradesh,2029-08-01,1982.86
+Andhra Pradesh,2029-09-01,1947.28
+Andhra Pradesh,2029-10-01,1216.56
+Andhra Pradesh,2029-11-01,1227.69
+Andhra Pradesh,2029-12-01,1279.46
+Andhra Pradesh,2030-01-01,1426.6
+Andhra Pradesh,2030-02-01,1416.95
+Andhra Pradesh,2030-03-01,1422.34
+Andhra Pradesh,2030-04-01,1398.37
+Andhra Pradesh,2030-05-01,1889.53
+Andhra Pradesh,2030-06-01,2192.35
+Andhra Pradesh,2030-07-01,2343.25
+Andhra Pradesh,2030-08-01,2089.42
+Andhra Pradesh,2030-09-01,2053.84
+Andhra Pradesh,2030-10-01,1323.13
+Andhra Pradesh,2030-11-01,1334.25
+Andhra Pradesh,2030-12-01,1386.02
+Maharashtra,2025-05-01,1398.69
+Maharashtra,2025-06-01,1471.98
+Maharashtra,2025-07-01,1685.89
+Maharashtra,2025-08-01,1515.49
+Maharashtra,2025-09-01,1310.25
+Maharashtra,2025-10-01,960.35
+Maharashtra,2025-11-01,974.59
+Maharashtra,2025-12-01,973.78
+Maharashtra,2026-01-01,1063.41
+Maharashtra,2026-02-01,1045.22
+Maharashtra,2026-03-01,1170.15
+Maharashtra,2026-04-01,1188.95
+Maharashtra,2026-05-01,1489.86
+Maharashtra,2026-06-01,1563.15
+Maharashtra,2026-07-01,1777.06
+Maharashtra,2026-08-01,1606.66
+Maharashtra,2026-09-01,1401.42
+Maharashtra,2026-10-01,1051.53
+Maharashtra,2026-11-01,1065.76
+Maharashtra,2026-12-01,1064.96
+Maharashtra,2027-01-01,1154.58
+Maharashtra,2027-02-01,1136.39
+Maharashtra,2027-03-01,1261.32
+Maharashtra,2027-04-01,1280.13
+Maharashtra,2027-05-01,1581.03
+Maharashtra,2027-06-01,1654.33
+Maharashtra,2027-07-01,1868.23
+Maharashtra,2027-08-01,1697.83
+Maharashtra,2027-09-01,1492.59
+Maharashtra,2027-10-01,1142.7
+Maharashtra,2027-11-01,1156.94
+Maharashtra,2027-12-01,1156.13
+Maharashtra,2028-01-01,1245.76
+Maharashtra,2028-02-01,1227.56
+Maharashtra,2028-03-01,1352.49
+Maharashtra,2028-04-01,1371.3
+Maharashtra,2028-05-01,1672.21
+Maharashtra,2028-06-01,1745.5
+Maharashtra,2028-07-01,1959.41
+Maharashtra,2028-08-01,1789.01
+Maharashtra,2028-09-01,1583.77
+Maharashtra,2028-10-01,1233.87
+Maharashtra,2028-11-01,1248.11
+Maharashtra,2028-12-01,1247.3
+Maharashtra,2029-01-01,1336.93
+Maharashtra,2029-02-01,1318.74
+Maharashtra,2029-03-01,1443.67
+Maharashtra,2029-04-01,1462.47
+Maharashtra,2029-05-01,1763.38
+Maharashtra,2029-06-01,1836.67
+Maharashtra,2029-07-01,2050.58
+Maharashtra,2029-08-01,1880.18
+Maharashtra,2029-09-01,1674.94
+Maharashtra,2029-10-01,1325.05
+Maharashtra,2029-11-01,1339.28
+Maharashtra,2029-12-01,1338.47
+Maharashtra,2030-01-01,1428.1
+Maharashtra,2030-02-01,1409.91
+Maharashtra,2030-03-01,1534.84
+Maharashtra,2030-04-01,1553.64
+Maharashtra,2030-05-01,1854.55
+Maharashtra,2030-06-01,1927.84
+Maharashtra,2030-07-01,2141.75
+Maharashtra,2030-08-01,1971.35
+Maharashtra,2030-09-01,1766.11
+Maharashtra,2030-10-01,1416.22
+Maharashtra,2030-11-01,1430.46
+Maharashtra,2030-12-01,1429.65
+Madhya Pradesh,2025-05-01,764.91
+Madhya Pradesh,2025-06-01,728.14
+Madhya Pradesh,2025-07-01,684.92
+Madhya Pradesh,2025-08-01,697.89
+Madhya Pradesh,2025-09-01,626.03
+Madhya Pradesh,2025-10-01,545.77
+Madhya Pradesh,2025-11-01,534.37
+Madhya Pradesh,2025-12-01,590.49
+Madhya Pradesh,2026-01-01,646.1
+Madhya Pradesh,2026-02-01,672.38
+Madhya Pradesh,2026-03-01,760.97
+Madhya Pradesh,2026-04-01,768.11
+Madhya Pradesh,2026-05-01,808.98
+Madhya Pradesh,2026-06-01,772.21
+Madhya Pradesh,2026-07-01,729.0
+Madhya Pradesh,2026-08-01,741.96
+Madhya Pradesh,2026-09-01,670.1
+Madhya Pradesh,2026-10-01,589.84
+Madhya Pradesh,2026-11-01,578.44
+Madhya Pradesh,2026-12-01,634.56
+Madhya Pradesh,2027-01-01,690.17
+Madhya Pradesh,2027-02-01,716.45
+Madhya Pradesh,2027-03-01,805.04
+Madhya Pradesh,2027-04-01,812.18
+Madhya Pradesh,2027-05-01,853.05
+Madhya Pradesh,2027-06-01,816.28
+Madhya Pradesh,2027-07-01,773.07
+Madhya Pradesh,2027-08-01,786.03
+Madhya Pradesh,2027-09-01,714.17
+Madhya Pradesh,2027-10-01,633.91
+Madhya Pradesh,2027-11-01,622.51
+Madhya Pradesh,2027-12-01,678.63
+Madhya Pradesh,2028-01-01,734.24
+Madhya Pradesh,2028-02-01,760.52
+Madhya Pradesh,2028-03-01,849.11
+Madhya Pradesh,2028-04-01,856.25
+Madhya Pradesh,2028-05-01,897.12
+Madhya Pradesh,2028-06-01,860.35
+Madhya Pradesh,2028-07-01,817.14
+Madhya Pradesh,2028-08-01,830.1
+Madhya Pradesh,2028-09-01,758.24
+Madhya Pradesh,2028-10-01,677.98
+Madhya Pradesh,2028-11-01,666.58
+Madhya Pradesh,2028-12-01,722.7
+Madhya Pradesh,2029-01-01,778.32
+Madhya Pradesh,2029-02-01,804.59
+Madhya Pradesh,2029-03-01,893.18
+Madhya Pradesh,2029-04-01,900.32
+Madhya Pradesh,2029-05-01,941.19
+Madhya Pradesh,2029-06-01,904.42
+Madhya Pradesh,2029-07-01,861.21
+Madhya Pradesh,2029-08-01,874.17
+Madhya Pradesh,2029-09-01,802.31
+Madhya Pradesh,2029-10-01,722.05
+Madhya Pradesh,2029-11-01,710.65
+Madhya Pradesh,2029-12-01,766.77
+Madhya Pradesh,2030-01-01,822.39
+Madhya Pradesh,2030-02-01,848.66
+Madhya Pradesh,2030-03-01,937.25
+Madhya Pradesh,2030-04-01,944.39
+Madhya Pradesh,2030-05-01,985.26
+Madhya Pradesh,2030-06-01,948.5
+Madhya Pradesh,2030-07-01,905.28
+Madhya Pradesh,2030-08-01,918.24
+Madhya Pradesh,2030-09-01,846.38
+Madhya Pradesh,2030-10-01,766.12
+Madhya Pradesh,2030-11-01,754.72
+Madhya Pradesh,2030-12-01,810.84
+Telangana,2025-05-01,594.41
+Telangana,2025-06-01,558.08
+Telangana,2025-07-01,531.67
+Telangana,2025-08-01,543.39
+Telangana,2025-09-01,570.68
+Telangana,2025-10-01,541.03
+Telangana,2025-11-01,537.82
+Telangana,2025-12-01,530.73
+Telangana,2026-01-01,642.18
+Telangana,2026-02-01,645.24
+Telangana,2026-03-01,654.74
+Telangana,2026-04-01,641.89
+Telangana,2026-05-01,626.49
+Telangana,2026-06-01,590.16
+Telangana,2026-07-01,563.75
+Telangana,2026-08-01,575.46
+Telangana,2026-09-01,602.76
+Telangana,2026-10-01,573.1
+Telangana,2026-11-01,569.9
+Telangana,2026-12-01,562.8
+Telangana,2027-01-01,674.25
+Telangana,2027-02-01,677.32
+Telangana,2027-03-01,686.82
+Telangana,2027-04-01,673.97
+Telangana,2027-05-01,658.56
+Telangana,2027-06-01,622.23
+Telangana,2027-07-01,595.82
+Telangana,2027-08-01,607.54
+Telangana,2027-09-01,634.83
+Telangana,2027-10-01,605.18
+Telangana,2027-11-01,601.97
+Telangana,2027-12-01,594.88
+Telangana,2028-01-01,706.33
+Telangana,2028-02-01,709.39
+Telangana,2028-03-01,718.89
+Telangana,2028-04-01,706.04
+Telangana,2028-05-01,690.63
+Telangana,2028-06-01,654.3
+Telangana,2028-07-01,627.89
+Telangana,2028-08-01,639.61
+Telangana,2028-09-01,666.91
+Telangana,2028-10-01,637.25
+Telangana,2028-11-01,634.04
+Telangana,2028-12-01,626.95
+Telangana,2029-01-01,738.4
+Telangana,2029-02-01,741.47
+Telangana,2029-03-01,750.97
+Telangana,2029-04-01,738.12
+Telangana,2029-05-01,722.71
+Telangana,2029-06-01,686.38
+Telangana,2029-07-01,659.97
+Telangana,2029-08-01,671.69
+Telangana,2029-09-01,698.98
+Telangana,2029-10-01,669.33
+Telangana,2029-11-01,666.12
+Telangana,2029-12-01,659.03
+Telangana,2030-01-01,770.48
+Telangana,2030-02-01,773.54
+Telangana,2030-03-01,783.04
+Telangana,2030-04-01,770.19
+Telangana,2030-05-01,754.78
+Telangana,2030-06-01,718.45
+Telangana,2030-07-01,692.04
+Telangana,2030-08-01,703.76
+Telangana,2030-09-01,731.05
+Telangana,2030-10-01,701.4
+Telangana,2030-11-01,698.19
+Telangana,2030-12-01,691.1
+Uttar Pradesh,2025-05-01,430.52
+Uttar Pradesh,2025-06-01,402.46
+Uttar Pradesh,2025-07-01,368.44
+Uttar Pradesh,2025-08-01,359.05
+Uttar Pradesh,2025-09-01,358.03
+Uttar Pradesh,2025-10-01,390.39
+Uttar Pradesh,2025-11-01,362.0
+Uttar Pradesh,2025-12-01,357.85
+Uttar Pradesh,2026-01-01,354.69
+Uttar Pradesh,2026-02-01,469.24
+Uttar Pradesh,2026-03-01,515.18
+Uttar Pradesh,2026-04-01,491.25
+Uttar Pradesh,2026-05-01,455.94
+Uttar Pradesh,2026-06-01,427.87
+Uttar Pradesh,2026-07-01,393.86
+Uttar Pradesh,2026-08-01,384.46
+Uttar Pradesh,2026-09-01,383.45
+Uttar Pradesh,2026-10-01,415.8
+Uttar Pradesh,2026-11-01,387.41
+Uttar Pradesh,2026-12-01,383.26
+Uttar Pradesh,2027-01-01,380.11
+Uttar Pradesh,2027-02-01,494.66
+Uttar Pradesh,2027-03-01,540.6
+Uttar Pradesh,2027-04-01,516.66
+Uttar Pradesh,2027-05-01,481.36
+Uttar Pradesh,2027-06-01,453.29
+Uttar Pradesh,2027-07-01,419.27
+Uttar Pradesh,2027-08-01,409.88
+Uttar Pradesh,2027-09-01,408.87
+Uttar Pradesh,2027-10-01,441.22
+Uttar Pradesh,2027-11-01,412.83
+Uttar Pradesh,2027-12-01,408.68
+Uttar Pradesh,2028-01-01,405.53
+Uttar Pradesh,2028-02-01,520.08
+Uttar Pradesh,2028-03-01,566.02
+Uttar Pradesh,2028-04-01,542.08
+Uttar Pradesh,2028-05-01,506.78
+Uttar Pradesh,2028-06-01,478.71
+Uttar Pradesh,2028-07-01,444.69
+Uttar Pradesh,2028-08-01,435.3
+Uttar Pradesh,2028-09-01,434.28
+Uttar Pradesh,2028-10-01,466.64
+Uttar Pradesh,2028-11-01,438.25
+Uttar Pradesh,2028-12-01,434.1
+Uttar Pradesh,2029-01-01,430.95
+Uttar Pradesh,2029-02-01,545.5
+Uttar Pradesh,2029-03-01,591.44
+Uttar Pradesh,2029-04-01,567.5
+Uttar Pradesh,2029-05-01,532.19
+Uttar Pradesh,2029-06-01,504.13
+Uttar Pradesh,2029-07-01,470.11
+Uttar Pradesh,2029-08-01,460.72
+Uttar Pradesh,2029-09-01,459.7
+Uttar Pradesh,2029-10-01,492.06
+Uttar Pradesh,2029-11-01,463.67
+Uttar Pradesh,2029-12-01,459.52
+Uttar Pradesh,2030-01-01,456.36
+Uttar Pradesh,2030-02-01,570.91
+Uttar Pradesh,2030-03-01,616.85
+Uttar Pradesh,2030-04-01,592.92
+Uttar Pradesh,2030-05-01,557.61
+Uttar Pradesh,2030-06-01,529.54
+Uttar Pradesh,2030-07-01,495.53
+Uttar Pradesh,2030-08-01,486.14
+Uttar Pradesh,2030-09-01,485.12
+Uttar Pradesh,2030-10-01,517.47
+Uttar Pradesh,2030-11-01,489.08
+Uttar Pradesh,2030-12-01,484.93
+Himachal Pradesh,2025-05-01,348.46
+Himachal Pradesh,2025-06-01,365.23
+Himachal Pradesh,2025-07-01,384.68
+Himachal Pradesh,2025-08-01,385.34
+Himachal Pradesh,2025-09-01,388.26
+Himachal Pradesh,2025-10-01,240.12
+Himachal Pradesh,2025-11-01,188.13
+Himachal Pradesh,2025-12-01,182.85
+Himachal Pradesh,2026-01-01,158.23
+Himachal Pradesh,2026-02-01,159.66
+Himachal Pradesh,2026-03-01,213.39
+Himachal Pradesh,2026-04-01,270.27
+Himachal Pradesh,2026-05-01,370.24
+Himachal Pradesh,2026-06-01,387.02
+Himachal Pradesh,2026-07-01,406.46
+Himachal Pradesh,2026-08-01,407.12
+Himachal Pradesh,2026-09-01,410.04
+Himachal Pradesh,2026-10-01,261.9
+Himachal Pradesh,2026-11-01,209.92
+Himachal Pradesh,2026-12-01,204.63
+Himachal Pradesh,2027-01-01,180.01
+Himachal Pradesh,2027-02-01,181.45
+Himachal Pradesh,2027-03-01,235.17
+Himachal Pradesh,2027-04-01,292.05
+Himachal Pradesh,2027-05-01,392.02
+Himachal Pradesh,2027-06-01,408.8
+Himachal Pradesh,2027-07-01,428.24
+Himachal Pradesh,2027-08-01,428.9
+Himachal Pradesh,2027-09-01,431.83
+Himachal Pradesh,2027-10-01,283.68
+Himachal Pradesh,2027-11-01,231.7
+Himachal Pradesh,2027-12-01,226.41
+Himachal Pradesh,2028-01-01,201.79
+Himachal Pradesh,2028-02-01,203.23
+Himachal Pradesh,2028-03-01,256.95
+Himachal Pradesh,2028-04-01,313.84
+Himachal Pradesh,2028-05-01,413.81
+Himachal Pradesh,2028-06-01,430.58
+Himachal Pradesh,2028-07-01,450.03
+Himachal Pradesh,2028-08-01,450.69
+Himachal Pradesh,2028-09-01,453.61
+Himachal Pradesh,2028-10-01,305.46
+Himachal Pradesh,2028-11-01,253.48
+Himachal Pradesh,2028-12-01,248.2
+Himachal Pradesh,2029-01-01,223.58
+Himachal Pradesh,2029-02-01,225.01
+Himachal Pradesh,2029-03-01,278.73
+Himachal Pradesh,2029-04-01,335.62
+Himachal Pradesh,2029-05-01,435.59
+Himachal Pradesh,2029-06-01,452.36
+Himachal Pradesh,2029-07-01,471.81
+Himachal Pradesh,2029-08-01,472.47
+Himachal Pradesh,2029-09-01,475.39
+Himachal Pradesh,2029-10-01,327.25
+Himachal Pradesh,2029-11-01,275.26
+Himachal Pradesh,2029-12-01,269.98
+Himachal Pradesh,2030-01-01,245.36
+Himachal Pradesh,2030-02-01,246.79
+Himachal Pradesh,2030-03-01,300.52
+Himachal Pradesh,2030-04-01,357.4
+Himachal Pradesh,2030-05-01,457.37
+Himachal Pradesh,2030-06-01,474.15
+Himachal Pradesh,2030-07-01,493.59
+Himachal Pradesh,2030-08-01,494.25
+Himachal Pradesh,2030-09-01,497.17
+Himachal Pradesh,2030-10-01,349.03
+Himachal Pradesh,2030-11-01,297.05
+Himachal Pradesh,2030-12-01,291.76
+Punjab,2025-05-01,216.46
+Punjab,2025-06-01,211.14
+Punjab,2025-07-01,209.9
+Punjab,2025-08-01,208.41
+Punjab,2025-09-01,204.93
+Punjab,2025-10-01,188.6
+Punjab,2025-11-01,170.88
+Punjab,2025-12-01,169.52
+Punjab,2026-01-01,174.53
+Punjab,2026-02-01,174.46
+Punjab,2026-03-01,195.8
+Punjab,2026-04-01,194.48
+Punjab,2026-05-01,227.87
+Punjab,2026-06-01,222.55
+Punjab,2026-07-01,221.31
+Punjab,2026-08-01,219.82
+Punjab,2026-09-01,216.34
+Punjab,2026-10-01,200.01
+Punjab,2026-11-01,182.29
+Punjab,2026-12-01,180.94
+Punjab,2027-01-01,185.94
+Punjab,2027-02-01,185.88
+Punjab,2027-03-01,207.22
+Punjab,2027-04-01,205.89
+Punjab,2027-05-01,239.29
+Punjab,2027-06-01,233.96
+Punjab,2027-07-01,232.72
+Punjab,2027-08-01,231.23
+Punjab,2027-09-01,227.75
+Punjab,2027-10-01,211.43
+Punjab,2027-11-01,193.71
+Punjab,2027-12-01,192.35
+Punjab,2028-01-01,197.36
+Punjab,2028-02-01,197.29
+Punjab,2028-03-01,218.63
+Punjab,2028-04-01,217.3
+Punjab,2028-05-01,250.7
+Punjab,2028-06-01,245.37
+Punjab,2028-07-01,244.13
+Punjab,2028-08-01,242.65
+Punjab,2028-09-01,239.17
+Punjab,2028-10-01,222.84
+Punjab,2028-11-01,205.12
+Punjab,2028-12-01,203.76
+Punjab,2029-01-01,208.77
+Punjab,2029-02-01,208.7
+Punjab,2029-03-01,230.04
+Punjab,2029-04-01,228.71
+Punjab,2029-05-01,262.11
+Punjab,2029-06-01,256.79
+Punjab,2029-07-01,255.55
+Punjab,2029-08-01,254.06
+Punjab,2029-09-01,250.58
+Punjab,2029-10-01,234.25
+Punjab,2029-11-01,216.53
+Punjab,2029-12-01,215.17
+Punjab,2030-01-01,220.18
+Punjab,2030-02-01,220.11
+Punjab,2030-03-01,241.45
+Punjab,2030-04-01,240.13
+Punjab,2030-05-01,273.52
+Punjab,2030-06-01,268.2
+Punjab,2030-07-01,266.96
+Punjab,2030-08-01,265.47
+Punjab,2030-09-01,261.99
+Punjab,2030-10-01,245.66
+Punjab,2030-11-01,227.94
+Punjab,2030-12-01,226.59
+Odisha,2025-05-01,91.01
+Odisha,2025-06-01,90.82
+Odisha,2025-07-01,88.63
+Odisha,2025-08-01,91.76
+Odisha,2025-09-01,86.93
+Odisha,2025-10-01,100.96
+Odisha,2025-11-01,90.18
+Odisha,2025-12-01,81.04
+Odisha,2026-01-01,80.5
+Odisha,2026-02-01,78.4
+Odisha,2026-03-01,82.63
+Odisha,2026-04-01,75.3
+Odisha,2026-05-01,96.26
+Odisha,2026-06-01,96.06
+Odisha,2026-07-01,93.88
+Odisha,2026-08-01,97.0
+Odisha,2026-09-01,92.18
+Odisha,2026-10-01,106.2
+Odisha,2026-11-01,95.42
+Odisha,2026-12-01,86.29
+Odisha,2027-01-01,85.75
+Odisha,2027-02-01,83.65
+Odisha,2027-03-01,87.88
+Odisha,2027-04-01,80.55
+Odisha,2027-05-01,101.5
+Odisha,2027-06-01,101.3
+Odisha,2027-07-01,99.12
+Odisha,2027-08-01,102.25
+Odisha,2027-09-01,97.42
+Odisha,2027-10-01,111.44
+Odisha,2027-11-01,100.67
+Odisha,2027-12-01,91.53
+Odisha,2028-01-01,90.99
+Odisha,2028-02-01,88.89
+Odisha,2028-03-01,93.12
+Odisha,2028-04-01,85.79
+Odisha,2028-05-01,106.74
+Odisha,2028-06-01,106.55
+Odisha,2028-07-01,104.36
+Odisha,2028-08-01,107.49
+Odisha,2028-09-01,102.66
+Odisha,2028-10-01,116.69
+Odisha,2028-11-01,105.91
+Odisha,2028-12-01,96.77
+Odisha,2029-01-01,96.23
+Odisha,2029-02-01,94.13
+Odisha,2029-03-01,98.36
+Odisha,2029-04-01,91.03
+Odisha,2029-05-01,111.99
+Odisha,2029-06-01,111.79
+Odisha,2029-07-01,109.61
+Odisha,2029-08-01,112.73
+Odisha,2029-09-01,107.91
+Odisha,2029-10-01,121.93
+Odisha,2029-11-01,111.15
+Odisha,2029-12-01,102.02
+Odisha,2030-01-01,101.48
+Odisha,2030-02-01,99.38
+Odisha,2030-03-01,103.61
+Odisha,2030-04-01,96.28
+Odisha,2030-05-01,117.23
+Odisha,2030-06-01,117.03
+Odisha,2030-07-01,114.85
+Odisha,2030-08-01,117.98
+Odisha,2030-09-01,113.15
+Odisha,2030-10-01,127.17
+Odisha,2030-11-01,116.4
+Odisha,2030-12-01,107.26
+Chhattisgarh,2025-05-01,118.21
+Chhattisgarh,2025-06-01,102.08
+Chhattisgarh,2025-07-01,95.81
+Chhattisgarh,2025-08-01,95.04
+Chhattisgarh,2025-09-01,97.55
+Chhattisgarh,2025-10-01,103.43
+Chhattisgarh,2025-11-01,102.84
+Chhattisgarh,2025-12-01,100.18
+Chhattisgarh,2026-01-01,133.38
+Chhattisgarh,2026-02-01,134.3
+Chhattisgarh,2026-03-01,140.53
+Chhattisgarh,2026-04-01,139.06
+Chhattisgarh,2026-05-01,125.53
+Chhattisgarh,2026-06-01,109.4
+Chhattisgarh,2026-07-01,103.13
+Chhattisgarh,2026-08-01,102.36
+Chhattisgarh,2026-09-01,104.87
+Chhattisgarh,2026-10-01,110.75
+Chhattisgarh,2026-11-01,110.16
+Chhattisgarh,2026-12-01,107.5
+Chhattisgarh,2027-01-01,140.69
+Chhattisgarh,2027-02-01,141.62
+Chhattisgarh,2027-03-01,147.85
+Chhattisgarh,2027-04-01,146.38
+Chhattisgarh,2027-05-01,132.84
+Chhattisgarh,2027-06-01,116.72
+Chhattisgarh,2027-07-01,110.45
+Chhattisgarh,2027-08-01,109.67
+Chhattisgarh,2027-09-01,112.19
+Chhattisgarh,2027-10-01,118.07
+Chhattisgarh,2027-11-01,117.48
+Chhattisgarh,2027-12-01,114.82
+Chhattisgarh,2028-01-01,148.01
+Chhattisgarh,2028-02-01,148.94
+Chhattisgarh,2028-03-01,155.17
+Chhattisgarh,2028-04-01,153.7
+Chhattisgarh,2028-05-01,140.16
+Chhattisgarh,2028-06-01,124.04
+Chhattisgarh,2028-07-01,117.77
+Chhattisgarh,2028-08-01,116.99
+Chhattisgarh,2028-09-01,119.51
+Chhattisgarh,2028-10-01,125.39
+Chhattisgarh,2028-11-01,124.8
+Chhattisgarh,2028-12-01,122.14
+Chhattisgarh,2029-01-01,155.33
+Chhattisgarh,2029-02-01,156.26
+Chhattisgarh,2029-03-01,162.49
+Chhattisgarh,2029-04-01,161.02
+Chhattisgarh,2029-05-01,147.48
+Chhattisgarh,2029-06-01,131.36
+Chhattisgarh,2029-07-01,125.09
+Chhattisgarh,2029-08-01,124.31
+Chhattisgarh,2029-09-01,126.83
+Chhattisgarh,2029-10-01,132.71
+Chhattisgarh,2029-11-01,132.12
+Chhattisgarh,2029-12-01,129.46
+Chhattisgarh,2030-01-01,162.65
+Chhattisgarh,2030-02-01,163.58
+Chhattisgarh,2030-03-01,169.8
+Chhattisgarh,2030-04-01,168.34
+Chhattisgarh,2030-05-01,154.8
+Chhattisgarh,2030-06-01,138.68
+Chhattisgarh,2030-07-01,132.4
+Chhattisgarh,2030-08-01,131.63
+Chhattisgarh,2030-09-01,134.15
+Chhattisgarh,2030-10-01,140.02
+Chhattisgarh,2030-11-01,139.44
+Chhattisgarh,2030-12-01,136.78
+Haryana,2025-05-01,74.78
+Haryana,2025-06-01,70.22
+Haryana,2025-07-01,69.39
+Haryana,2025-08-01,66.75
+Haryana,2025-09-01,56.19
+Haryana,2025-10-01,69.0
+Haryana,2025-11-01,68.93
+Haryana,2025-12-01,79.72
+Haryana,2026-01-01,81.59
+Haryana,2026-02-01,81.26
+Haryana,2026-03-01,81.17
+Haryana,2026-04-01,75.76
+Haryana,2026-05-01,79.35
+Haryana,2026-06-01,74.79
+Haryana,2026-07-01,73.96
+Haryana,2026-08-01,71.32
+Haryana,2026-09-01,60.76
+Haryana,2026-10-01,73.57
+Haryana,2026-11-01,73.5
+Haryana,2026-12-01,84.29
+Haryana,2027-01-01,86.16
+Haryana,2027-02-01,85.83
+Haryana,2027-03-01,85.74
+Haryana,2027-04-01,80.33
+Haryana,2027-05-01,83.92
+Haryana,2027-06-01,79.36
+Haryana,2027-07-01,78.53
+Haryana,2027-08-01,75.88
+Haryana,2027-09-01,65.33
+Haryana,2027-10-01,78.14
+Haryana,2027-11-01,78.07
+Haryana,2027-12-01,88.86
+Haryana,2028-01-01,90.72
+Haryana,2028-02-01,90.4
+Haryana,2028-03-01,90.31
+Haryana,2028-04-01,84.9
+Haryana,2028-05-01,88.49
+Haryana,2028-06-01,83.93
+Haryana,2028-07-01,83.1
+Haryana,2028-08-01,80.45
+Haryana,2028-09-01,69.9
+Haryana,2028-10-01,82.71
+Haryana,2028-11-01,82.64
+Haryana,2028-12-01,93.43
+Haryana,2029-01-01,95.29
+Haryana,2029-02-01,94.97
+Haryana,2029-03-01,94.88
+Haryana,2029-04-01,89.47
+Haryana,2029-05-01,93.06
+Haryana,2029-06-01,88.5
+Haryana,2029-07-01,87.67
+Haryana,2029-08-01,85.02
+Haryana,2029-09-01,74.47
+Haryana,2029-10-01,87.28
+Haryana,2029-11-01,87.21
+Haryana,2029-12-01,98.0
+Haryana,2030-01-01,99.86
+Haryana,2030-02-01,99.54
+Haryana,2030-03-01,99.45
+Haryana,2030-04-01,94.04
+Haryana,2030-05-01,97.63
+Haryana,2030-06-01,93.07
+Haryana,2030-07-01,92.24
+Haryana,2030-08-01,89.59
+Haryana,2030-09-01,79.04
+Haryana,2030-10-01,91.85
+Haryana,2030-11-01,91.78
+Haryana,2030-12-01,102.57
+West Bengal,2025-05-01,27.99
+West Bengal,2025-06-01,25.49
+West Bengal,2025-07-01,26.41
+West Bengal,2025-08-01,26.9
+West Bengal,2025-09-01,29.71
+West Bengal,2025-10-01,30.55
+West Bengal,2025-11-01,27.59
+West Bengal,2025-12-01,27.6
+West Bengal,2026-01-01,65.07
+West Bengal,2026-02-01,67.13
+West Bengal,2026-03-01,80.22
+West Bengal,2026-04-01,84.74
+West Bengal,2026-05-01,33.91
+West Bengal,2026-06-01,31.4
+West Bengal,2026-07-01,32.33
+West Bengal,2026-08-01,32.82
+West Bengal,2026-09-01,35.62
+West Bengal,2026-10-01,36.46
+West Bengal,2026-11-01,33.51
+West Bengal,2026-12-01,33.52
+West Bengal,2027-01-01,70.99
+West Bengal,2027-02-01,73.05
+West Bengal,2027-03-01,86.14
+West Bengal,2027-04-01,90.66
+West Bengal,2027-05-01,39.82
+West Bengal,2027-06-01,37.32
+West Bengal,2027-07-01,38.24
+West Bengal,2027-08-01,38.74
+West Bengal,2027-09-01,41.54
+West Bengal,2027-10-01,42.38
+West Bengal,2027-11-01,39.42
+West Bengal,2027-12-01,39.43
+West Bengal,2028-01-01,76.9
+West Bengal,2028-02-01,78.97
+West Bengal,2028-03-01,92.05
+West Bengal,2028-04-01,96.57
+West Bengal,2028-05-01,45.74
+West Bengal,2028-06-01,43.23
+West Bengal,2028-07-01,44.16
+West Bengal,2028-08-01,44.65
+West Bengal,2028-09-01,47.46
+West Bengal,2028-10-01,48.3
+West Bengal,2028-11-01,45.34
+West Bengal,2028-12-01,45.35
+West Bengal,2029-01-01,82.82
+West Bengal,2029-02-01,84.88
+West Bengal,2029-03-01,97.97
+West Bengal,2029-04-01,102.49
+West Bengal,2029-05-01,51.65
+West Bengal,2029-06-01,49.15
+West Bengal,2029-07-01,50.08
+West Bengal,2029-08-01,50.57
+West Bengal,2029-09-01,53.37
+West Bengal,2029-10-01,54.21
+West Bengal,2029-11-01,51.25
+West Bengal,2029-12-01,51.27
+West Bengal,2030-01-01,88.74
+West Bengal,2030-02-01,90.8
+West Bengal,2030-03-01,103.89
+West Bengal,2030-04-01,108.4
+West Bengal,2030-05-01,57.57
+West Bengal,2030-06-01,55.07
+West Bengal,2030-07-01,55.99
+West Bengal,2030-08-01,56.48
+West Bengal,2030-09-01,59.29
+West Bengal,2030-10-01,60.13
+West Bengal,2030-11-01,57.17
+West Bengal,2030-12-01,57.18
